@@ -1,0 +1,936 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9631,
+          40.7794
+        ]
+      },
+      "properties": {
+        "Name": "The Metropolitan Museum of Art (The Met)",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Metropolitan_Museum_of_Art_(The_Met)_-_Central_Park%2C_NYC.jpg/640px-Metropolitan_Museum_of_Art_(The_Met)_-_Central_Park%2C_NYC.jpg",
+        "landmark": "The Metropolitan Museum of Art (The Met)",
+        "link": "https://www.metmuseum.org",
+        "description": "Significance: The largest art museum in the United States, housing a collection spanning 5,000 years. \nKey artifacts: The Egyptian *Temple of Dendur*, works by Vincent van Gogh (*Self-Portrait with a Straw Hat*), and Emanuel Leutze’s *Washington Crossing the Delaware*.",
+        "latitude": 40.7794,
+        "longitude": -73.9631
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12694,
+          51.51944
+        ]
+      },
+      "properties": {
+        "Name": "The British Museum",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/British_Museum_(aerial).jpg/1024px-British_Museum_(aerial).jpg",
+        "landmark": "The British Museum",
+        "link": "https://www.britishmuseum.org",
+        "description": "Significance: Established in 1753 as the first national public museum in the world. \nKey artifacts: The *Rosetta Stone*, the *Elgin Marbles* (Parthenon Sculptures), the *Sutton Hoo Ship Burial Helmet*, and the *Lewis Chessmen*.",
+        "latitude": 51.51944,
+        "longitude": -0.12694
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.25528,
+          43.76833
+        ]
+      },
+      "properties": {
+        "Name": "Uffizi Gallery",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Uffizi_Hallway.jpg/800px-Uffizi_Hallway.jpg",
+        "landmark": "Uffizi Gallery",
+        "link": "https://www.uffizi.it/en",
+        "description": "Significance: Built in the 16th century for the Medici family, it is a primary repository for Italian Renaissance art. \nKey artifacts: Botticelli’s *The Birth of Venus* and *Primavera*, Michelangelo’s *Doni Tondo*, and Titian’s *Venus of Urbino*.",
+        "latitude": 43.76833,
+        "longitude": 11.25528
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88528,
+          52.36
+        ]
+      },
+      "properties": {
+        "Name": "Rijksmuseum",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/South_facade_of_the_Rijksmuseum_Amsterdam_(DSCF0528).jpg/1280px-South_facade_of_the_Rijksmuseum_Amsterdam_(DSCF0528).jpg",
+        "landmark": "Rijksmuseum",
+        "link": "https://www.rijksmuseum.nl",
+        "description": "Significance: The national museum of the Netherlands, dedicated to Dutch art and history, particularly the Dutch Golden Age. \nKey artifacts: Rembrandt’s *The Night Watch*, Vermeer’s *The Milkmaid*, and Frans Hals’ *The Merry Drinker*.",
+        "latitude": 52.36,
+        "longitude": 4.88528
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9775,
+          40.76167
+        ]
+      },
+      "properties": {
+        "Name": "The Museum of Modern Art (MoMA)",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/6/64/The_Museum_of_Modern_Arts%2C_New_York_(5907606980).jpg",
+        "landmark": "The Museum of Modern Art (MoMA)",
+        "link": "https://www.moma.org",
+        "description": "Significance: Founded in 1929, it was the first museum exclusively devoted to modern art. \nKey artifacts: Van Gogh’s *The Starry Night*, Picasso’s *Les Demoiselles d’Avignon*, and Dalí’s *The Persistence of Memory*.",
+        "latitude": 40.76167,
+        "longitude": -73.9775
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69222,
+          40.41389
+        ]
+      },
+      "properties": {
+        "Name": "Prado Museum",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Prado_Museum_from_the_Botanical_Garden.jpg/1024px-Prado_Museum_from_the_Botanical_Garden.jpg",
+        "landmark": "Prado Museum",
+        "link": "https://www.museodelprado.es/en",
+        "description": "Significance: Opened in 1819, it houses the Spanish Royal Collection with a focus on Spanish, Italian, and Flemish painting. \nKey artifacts: Velázquez’s *Las Meninas*, Goya’s *The Third of May 1808*, and Bosch’s *The Garden of Earthly Delights*.",
+        "latitude": 40.41389,
+        "longitude": -3.69222
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.31361,
+          59.94056
+        ]
+      },
+      "properties": {
+        "Name": "State Hermitage Museum",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Spb_06-2012_Palace_Embankment_various_14.jpg/800px-Spb_06-2012_Palace_Embankment_various_14.jpg",
+        "landmark": "State Hermitage Museum",
+        "link": "https://www.hermitagemuseum.org",
+        "description": "Significance: Housed in the Winter Palace, it is one of the oldest and largest museums, started by Catherine the Great in 1764. \nKey artifacts: Leonardo da Vinci’s *Madonna Litta* and *Benois Madonna*, and Rembrandt’s *The Return of the Prodigal Son*.",
+        "latitude": 59.94056,
+        "longitude": 30.31361
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.45444,
+          41.90639
+        ]
+      },
+      "properties": {
+        "Name": "Vatican Museums",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Museums_in_the_Vatican_City.jpg/1200px-Museums_in_the_Vatican_City.jpg",
+        "landmark": "Vatican Museums",
+        "link": "https://www.museivaticani.va",
+        "description": "Significance: A vast complex housing art amassed by popes over centuries, dating back to Pope Julius II in the 16th century. \nKey artifacts: Michelangelo’s Sistine Chapel ceiling frescoes and *Last Judgment*, the *Raphael Rooms* (*School of Athens*), and *Laocoön and His Sons*.",
+        "latitude": 41.90639,
+        "longitude": 12.45444
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.73222,
+          37.98917
+        ]
+      },
+      "properties": {
+        "Name": "National Archaeological Museum (Athens)",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Arch%C3%A4ologisches_Nationalmuseum_Athen.jpg/1024px-Arch%C3%A4ologisches_Nationalmuseum_Athen.jpg",
+        "landmark": "National Archaeological Museum (Athens)",
+        "link": "https://www.namuseum.gr/en",
+        "description": "Significance: Houses important artifacts recovered from Greek history, including shipwrecks. \nKey artifacts: The Antikythera Mechanism, a geared device used to calculate astronomical phenomena.",
+        "latitude": 37.98917,
+        "longitude": 23.73222
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.51125,
+          35.8975
+        ]
+      },
+      "properties": {
+        "Name": "National Museum of Archaeology (Malta)",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Malta_-_Valletta_-_Triq_ir-Repubblika_-_Auberge_de_Provence_-_National_Museum_of_Archaeology_03_ies.jpg/1024px-Malta_-_Valletta_-_Triq_ir-Repubblika_-_Auberge_de_Provence_-_National_Museum_of_Archaeology_03_ies.jpg",
+        "landmark": "National Museum of Archaeology (Malta)",
+        "link": "https://heritagemalta.org/museums-sites/national-museum-of-archaeology",
+        "description": "Significance: Houses artifacts from Malta's prehistoric sites. \nKey artifacts: The \"Sleeping Lady\" statuette found at the Ħal Saflieni Hypogeum.",
+        "latitude": 35.8975,
+        "longitude": 14.51125
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03,
+          -12.04806
+        ]
+      },
+      "properties": {
+        "Name": "Museum of the Central Reserve Bank of Peru",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/2017_Lima_-_Banco_de_Reserva_del_Per%C3%BA.jpg/1024px-2017_Lima_-_Banco_de_Reserva_del_Per%C3%BA.jpg",
+        "landmark": "Museum of the Central Reserve Bank of Peru",
+        "link": "https://mucen.bcrp.gob.pe",
+        "description": "Key artifacts: Nasca ceramics, including statues of feminine deities.",
+        "latitude": -12.04806,
+        "longitude": -77.03
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.33639,
+          48.86083
+        ]
+      },
+      "properties": {
+        "Name": "The Louvre Museum",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/800px-Louvre_Museum_Wikimedia_Commons.jpg",
+        "landmark": "The Louvre Museum",
+        "link": "https://www.louvre.fr",
+        "description": "Significance: Largest art museum in the world by exhibition space, originally a fortress and royal palace.\nKey artifacts: Mona Lisa, Venus de Milo, Winged Victory of Samothrace, Code of Hammurabi.",
+        "latitude": 48.86083,
+        "longitude": 2.33639
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.13278,
+          29.97611
+        ]
+      },
+      "properties": {
+        "Name": "Pyramids of Giza",
+        "photo": "https://commons.wikimedia.org/wiki/File:All_Gizah_Pyramids.jpg",
+        "landmark": "Pyramids of Giza",
+        "link": "https://en.wikipedia.org/wiki/Giza_pyramid_complex",
+        "description": "Key features: Great Pyramid of Khufu: Built c. 2551 B.C., it is the largest ancient pyramid, standing 450 feet high.; Pyramid of Khafre: Built c. 2520 B.C., featuring the Sphinx complex.",
+        "latitude": 29.97611,
+        "longitude": 31.13278
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.21639,
+          29.87111
+        ]
+      },
+      "properties": {
+        "Name": "Saqqara Necropolis",
+        "photo": "https://commons.wikimedia.org/wiki/File:Saqqara,_Pyramid_of_Djoser,_Ancient_Egypt.jpg",
+        "landmark": "Saqqara Necropolis",
+        "link": "https://en.wikipedia.org/wiki/Saqqara",
+        "description": "Key features: Pyramid of Djoser: Built 2630–2611 B.C., it is the first \"step pyramid\" designed by Imhotep.; Serapeum of Saqqara: Contains massive granite sarcophagi for sacred bulls, noted for their geometric precision and airtight lids.",
+        "latitude": 29.87111,
+        "longitude": 31.21639
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.9184,
+          26.1841
+        ]
+      },
+      "properties": {
+        "Name": "Abydos",
+        "photo": "https://commons.wikimedia.org/wiki/File:Temple_of_Seti_I,_Abydos,_Egypt.jpg",
+        "landmark": "Abydos",
+        "link": "https://en.wikipedia.org/wiki/Abydos,_Egypt",
+        "description": "Key features: Osireion (or Osirion): A subterranean structure behind the Temple of Seti I, possibly a cenotaph for Seti I (c. 1294–1279 BCE) or a symbolic tomb of Osiris.; Temple of Seti I: Built in the 13th century BCE.",
+        "latitude": 26.1841,
+        "longitude": 31.9184
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.518694,
+          30.946167
+        ]
+      },
+      "properties": {
+        "Name": "Taposiris Magna",
+        "photo": "https://commons.wikimedia.org/wiki/File:Taposiris_Magna_Temple_04.JPG",
+        "landmark": "Taposiris Magna",
+        "link": "https://en.wikipedia.org/wiki/Taposiris_Magna",
+        "description": "Significance: A temple complex where recent excavations have uncovered mummies, coins bearing Cleopatra VII's image, and a large cemetery; theorized by some to be the location of the tomb of Antony and Cleopatra. Date: Includes remains of a Greek temple from the 4th century BC; walls constructed in the 1st century BC.",
+        "latitude": 30.946167,
+        "longitude": 29.518694
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.74917,
+          16.93833
+        ]
+      },
+      "properties": {
+        "Name": "Nubian Pyramids",
+        "photo": "https://commons.wikimedia.org/wiki/File:Nubian_pyramids_of_Meroe_in_1821.jpg",
+        "landmark": "Nubian Pyramids",
+        "link": "https://en.wikipedia.org/wiki/Nubian_pyramids",
+        "description": "Significance: Hundreds of steep sandstone pyramidal tombs from the Kushite kingdom. Date: c. 300 B.C. to 300 A.D..",
+        "latitude": 16.93833,
+        "longitude": 33.74917
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.3943,
+          21.1147
+        ]
+      },
+      "properties": {
+        "Name": "Richat Structure (Eye of the Sahara)",
+        "photo": "https://commons.wikimedia.org/wiki/File:ISS-42_Richat_Structure,_Eye_of_the_Sahara.jpg",
+        "landmark": "Richat Structure (Eye of the Sahara)",
+        "link": "https://en.wikipedia.org/wiki/Richat_Structure",
+        "description": "Significance: A geological dome 40-50 km in diameter, once theorized to be Atlantis, but actually formed by uplift and erosion. Date: Formed approximately 100 million years ago.",
+        "latitude": 21.1147,
+        "longitude": -11.3943
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.92167,
+          37.22361
+        ]
+      },
+      "properties": {
+        "Name": "Gobekli Tepe",
+        "photo": "https://commons.wikimedia.org/wiki/File:Gobeklitepe.jpg",
+        "landmark": "Gobekli Tepe",
+        "link": "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe",
+        "description": "Significance: The world's oldest known temple complex, built by hunter-gatherers, featuring massive T-shaped limestone pillars with animal carvings. Date: c. 9600–8200 BCE.",
+        "latitude": 37.22361,
+        "longitude": 38.92167
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.73512,
+          38.37358
+        ]
+      },
+      "properties": {
+        "Name": "Cappadocia Underground Cities",
+        "photo": "https://commons.wikimedia.org/wiki/Underground_City_of_Derinkuyu",
+        "landmark": "Cappadocia Underground Cities",
+        "link": "https://en.wikipedia.org/wiki/Derinkuyu_underground_city",
+        "description": "Date: Origins potentially 8th–7th century BCE (Phrygian); expanded during the Byzantine era. Key features: Derinkuyu: An 18-story deep underground city that could shelter 20,000 people, used by Christians to escape persecution.; Kaymakli: A wider, shallower underground complex connected to Derinkuyu by tunnels.",
+        "latitude": 38.37358,
+        "longitude": 34.73512
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.82806,
+          37.66667
+        ]
+      },
+      "properties": {
+        "Name": "Catalhoyuk",
+        "photo": "https://commons.wikimedia.org/wiki/Category:%C3%87atalh%C3%B6y%C3%BCk",
+        "landmark": "Catalhoyuk",
+        "link": "https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk",
+        "description": "Significance: A dense, proto-urban Neolithic settlement. Date: Settled 9,000 years ago.",
+        "latitude": 37.66667,
+        "longitude": 32.82806
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.45153,
+          30.32208
+        ]
+      },
+      "properties": {
+        "Name": "Al Khazna (The Treasury)",
+        "photo": "https://commons.wikimedia.org/wiki/File:Petra,_Al-Khazneh.jpg",
+        "landmark": "Al Khazna (The Treasury)",
+        "link": "https://en.wikipedia.org/wiki/Al-Khazneh",
+        "description": "Significance: A mausoleum carved into sandstone cliffs, likely for Nabataean King Aretas IV. Date: 1st century AD (reign of Aretas IV, 9 BC–40 AD).",
+        "latitude": 30.32208,
+        "longitude": 35.45153
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2073222,
+          34.0063361
+        ]
+      },
+      "properties": {
+        "Name": "Baalbek",
+        "photo": "https://commons.wikimedia.org/wiki/File:Baalbeck_Temple.jpg",
+        "landmark": "Baalbek",
+        "link": "https://en.wikipedia.org/wiki/Baalbek",
+        "description": "Significance: A colossal Roman temple complex (Heliopolis) built on Phoenician/Canaanite foundations, famous for the \"Trilithon\" stones weighing 800 tonnes. Date: Roman complex built over centuries; site inhabited for 11,000 years.",
+        "latitude": 34.0063361,
+        "longitude": 36.2073222
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.10306,
+          30.96278
+        ]
+      },
+      "properties": {
+        "Name": "Ziggurat of Ur",
+        "photo": "https://commons.wikimedia.org/wiki/File:Ziggarat_of_Ur_001.jpg",
+        "landmark": "Ziggurat of Ur",
+        "link": "https://en.wikipedia.org/wiki/Ziggurat_of_Ur",
+        "description": "Significance: A tiered temple built for the Sumerian king Ur-Nammu. Date: Mid-21st century B.C..",
+        "latitude": 30.96278,
+        "longitude": 46.10306
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.00684,
+          40.35424
+        ]
+      },
+      "properties": {
+        "Name": "Great Wall of China",
+        "photo": "https://commons.wikimedia.org/wiki/File:20090529_Great_Wall_8185.jpg",
+        "landmark": "Great Wall of China",
+        "link": "https://en.wikipedia.org/wiki/Great_Wall_of_China",
+        "description": "Significance: A vast military fortification; the Han Dynasty extensions utilized sand, gravel, and rose willow. Date: Han Dynasty construction mostly by 121 BC; original sections date back to Warring States (c. 7th century BC).",
+        "latitude": 40.35424,
+        "longitude": 116.00684
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.18403,
+          29.06157
+        ]
+      },
+      "properties": {
+        "Name": "Longyou Grottoes",
+        "photo": "https://commons.wikimedia.org/wiki/Category:Longyou_Caves",
+        "landmark": "Longyou Grottoes",
+        "link": "https://en.wikipedia.org/wiki/Longyou_Caves",
+        "description": "Significance: Massive ancient underground artificial caverns of unknown origin. Date: Unknown.",
+        "latitude": 29.06157,
+        "longitude": 119.18403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.705,
+          39.66583
+        ]
+      },
+      "properties": {
+        "Name": "Hanging Temple",
+        "photo": "https://commons.wikimedia.org/wiki/File:Xuankongsi.jpg",
+        "landmark": "Hanging Temple",
+        "link": "https://en.wikipedia.org/wiki/Hanging_Temple",
+        "description": "Significance: A temple built into a cliff face integrating Buddhism, Taoism, and Confucianism. Date: Built in 491 AD.",
+        "latitude": 39.66583,
+        "longitude": 113.705
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.60317,
+          31.00099
+        ]
+      },
+      "properties": {
+        "Name": "Dujiangyan",
+        "photo": "https://commons.wikimedia.org/wiki/Category:Dujiangyan_irrigation_system",
+        "landmark": "Dujiangyan",
+        "link": "https://en.wikipedia.org/wiki/Dujiangyan",
+        "description": "Significance: An ancient irrigation system still in use today, functioning without dams. Date: Built c. 256 BC.",
+        "latitude": 31.00099,
+        "longitude": 103.60317
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.86667,
+          13.4125
+        ]
+      },
+      "properties": {
+        "Name": "Angkor Wat",
+        "photo": "https://commons.wikimedia.org/wiki/File:20171126_Angkor_Wat_4712_DxO.jpg",
+        "landmark": "Angkor Wat",
+        "link": "https://en.wikipedia.org/wiki/Angkor_Wat",
+        "description": "Significance: The largest religious monument in the world, originally Hindu, dedicated to Vishnu. Date: 1116–1150 CE.",
+        "latitude": 13.4125,
+        "longitude": 103.86667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85861,
+          13.44111
+        ]
+      },
+      "properties": {
+        "Name": "Angkor Thom",
+        "photo": "https://commons.wikimedia.org/wiki/File:Bayon,_Angkor_Thom,_Camboya,_2013-08-17,_DD_37.JPG",
+        "landmark": "Angkor Thom",
+        "link": "https://en.wikipedia.org/wiki/Bayon",
+        "description": "Significance: A fortified city featuring the Bayon Temple with massive stone faces, built by King Jayavarman VII. Date: Late 12th century CE.",
+        "latitude": 13.44111,
+        "longitude": 103.85861
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8333,
+          34.4706
+        ]
+      },
+      "properties": {
+        "Name": "Masuda-no-Iwafune",
+        "photo": "https://commons.wikimedia.org/wiki/File:Masuda-no-iwafune.jpg",
+        "landmark": "Masuda-no-Iwafune",
+        "link": "https://en.wikipedia.org/wiki/Masuda-no-Iwafune",
+        "description": "Significance: An 800-ton carved granite monolith known as the \"Rock Ship.\" Date: Uncertain, possibly 7th century CE.",
+        "latitude": 34.4706,
+        "longitude": 135.8333
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.8667,
+          34.8167
+        ]
+      },
+      "properties": {
+        "Name": "Ishi no Hoden",
+        "photo": "https://commons.wikimedia.org/wiki/File:Ishi-no-Hoden_Stone.jpg",
+        "landmark": "Ishi no Hoden",
+        "link": "https://en.wikipedia.org/wiki/Ishi_no_Hoden",
+        "description": "Significance: A megalithic monument appearing to float on water, worshipped as a Shintai. Date: Recorded as standing 1,300 years ago.",
+        "latitude": 34.8167,
+        "longitude": 134.8667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7497,
+          32.9042
+        ]
+      },
+      "properties": {
+        "Name": "Rujm el-Hiri",
+        "photo": "https://commons.wikimedia.org/wiki/File:Rujm_el-Hiri_00.jpg",
+        "landmark": "Rujm el-Hiri",
+        "link": "https://en.wikipedia.org/wiki/Rujm_el-Hiri",
+        "description": "Significance: A megalithic monument of concentric stone circles, potentially used for excarnation or seasonal rituals. Date: Chalcolithic/Early Bronze Age.",
+        "latitude": 32.9042,
+        "longitude": 35.7497
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.475,
+          53.695
+        ]
+      },
+      "properties": {
+        "Name": "Newgrange",
+        "photo": "https://commons.wikimedia.org/wiki/File:Newgrange.jpg",
+        "landmark": "Newgrange",
+        "link": "https://en.wikipedia.org/wiki/Newgrange",
+        "description": "Significance: A passage tomb aligned with the winter solstice sunrise, part of the Brú na Bóinne complex. Date: c. 3200 BCE.",
+        "latitude": 53.695,
+        "longitude": -6.475
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3433,
+          59.0489
+        ]
+      },
+      "properties": {
+        "Name": "Skara Brae",
+        "photo": "https://commons.wikimedia.org/wiki/File:Skara_Brae_Entry.jpg",
+        "landmark": "Skara Brae",
+        "link": "https://en.wikipedia.org/wiki/Skara_Brae",
+        "description": "Significance: A remarkably intact Neolithic village revealed by a storm in 1850. Date: Occupied c. 3180–2500 BCE.",
+        "latitude": 59.0489,
+        "longitude": -3.3433
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8667,
+          51.1972
+        ]
+      },
+      "properties": {
+        "Name": "Goseck Circle",
+        "photo": "https://commons.wikimedia.org/wiki/File:Goseck_circle.jpg",
+        "landmark": "Goseck Circle",
+        "link": "https://en.wikipedia.org/wiki/Goseck_circle",
+        "description": "Significance: A Neolithic circular enclosure possibly serving as a solar observatory. Date: c. 4900 BC.",
+        "latitude": 51.1972,
+        "longitude": 11.8667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.506,
+          35.865
+        ]
+      },
+      "properties": {
+        "Name": "Al Saflieni Hypogeum",
+        "photo": "https://commons.wikimedia.org/wiki/File:Hal_Saflieni_Hypogeum_-_Malta_(Ancient_Archeology).jpg",
+        "landmark": "Ħal Saflieni Hypogeum",
+        "link": "https://en.wikipedia.org/wiki/%C4%A6al-Saflieni_Hypogeum",
+        "description": "Significance: An underground Neolithic burial complex carved across three levels. Date: 4000 BC – 1500 BC.",
+        "latitude": 35.865,
+        "longitude": 14.506
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4817,
+          41.8765
+        ]
+      },
+      "properties": {
+        "Name": "Pyramid of Cestius",
+        "photo": "https://commons.wikimedia.org/wiki/File:Piramide_Cestia_Roma.jpg",
+        "landmark": "Pyramid of Cestius",
+        "link": "https://en.wikipedia.org/wiki/Pyramid_of_Cestius",
+        "description": "Significance: A steep, pointed pyramid built as a tomb for a Roman magistrate. Date: c. 12 B.C..",
+        "latitude": 41.8765,
+        "longitude": 12.4817
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.84389,
+          19.6925
+        ]
+      },
+      "properties": {
+        "Name": "Teotihuacán",
+        "photo": "https://commons.wikimedia.org/wiki/File:Teotihuacan_Piramide_del_Sol.jpg",
+        "landmark": "Teotihuacán",
+        "link": "https://en.wikipedia.org/wiki/Teotihuacan",
+        "description": "Significance: Ancient metropolis featuring the **Pyramid of the Sun** (built over a natural cave) and **Pyramid of the Moon**. Date: Pyramid of the Sun completed c. 125 CE; city flourished 150 BCE–650 CE.",
+        "latitude": 19.6925,
+        "longitude": -98.84389
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.30365,
+          19.05442
+        ]
+      },
+      "properties": {
+        "Name": "Great Pyramid of Cholula",
+        "photo": "https://commons.wikimedia.org/wiki/File:Cholula_pyramid.jpg",
+        "landmark": "Great Pyramid of Cholula",
+        "link": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Cholula",
+        "description": "Significance: The largest pyramid by volume in the world, now resembling a grassy hill topped by a church. Date: Built in stages by pre-Columbian people; utilized by Aztecs.",
+        "latitude": 19.05442,
+        "longitude": -98.30365
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.623,
+          17.223
+        ]
+      },
+      "properties": {
+        "Name": "Tikal",
+        "photo": "https://commons.wikimedia.org/wiki/File:Tikal_Temple_1_2006.jpg",
+        "landmark": "Tikal",
+        "link": "https://en.wikipedia.org/wiki/Tikal",
+        "description": "Significance: A major Maya urban center with five pyramidal temples. Date: c. 300–900 A.D..",
+        "latitude": 17.223,
+        "longitude": -89.623
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1796,
+          -9.5933
+        ]
+      },
+      "properties": {
+        "Name": "Chavin de Huantar",
+        "photo": "https://commons.wikimedia.org/wiki/File:Chavin_de_Huantar.JPG",
+        "landmark": "Chavin de Huantar",
+        "link": "https://en.wikipedia.org/wiki/Chav%C3%ADn_de_Hu%C3%A1ntar",
+        "description": "Significance: A massive temple complex with underground channels and carvings. Date: c. 900–200 B.C..",
+        "latitude": -9.5933,
+        "longitude": -77.1796
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1914,
+          -13.3227
+        ]
+      },
+      "properties": {
+        "Name": "Moray Terraces",
+        "photo": "https://commons.wikimedia.org/wiki/File:Moray_(6191445031).jpg",
+        "landmark": "Moray Terraces",
+        "link": "https://en.wikipedia.org/wiki/Moray_(Inca_ruins)",
+        "description": "Significance: Concentric agricultural terraces with significant temperature differences from top to bottom. Date: Inca civilization.",
+        "latitude": -13.3227,
+        "longitude": -72.1914
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13,
+          -14.739
+        ]
+      },
+      "properties": {
+        "Name": "Nazca Lines",
+        "photo": "https://commons.wikimedia.org/wiki/File:Nazca_Lineas.jpg",
+        "landmark": "Nazca Lines",
+        "link": "https://en.wikipedia.org/wiki/Nazca_Lines",
+        "description": "Significance: Giant geoglyphs of animals and shapes etched into the desert floor. Date: Created between 500 B.C. and A.D. 500.",
+        "latitude": -14.739,
+        "longitude": -75.13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.6737,
+          -16.5545
+        ]
+      },
+      "properties": {
+        "Name": "Pumapunku",
+        "photo": "https://commons.wikimedia.org/wiki/File:Puma_Punku.jpg",
+        "landmark": "Pumapunku",
+        "link": "https://en.wikipedia.org/wiki/Pumapunku",
+        "description": "Significance: Ruins featuring incredibly precise geometric stone carvings. Date: Tiwanaku culture.",
+        "latitude": -16.5545,
+        "longitude": -68.6737
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.751,
+          9.153
+        ]
+      },
+      "properties": {
+        "Name": "Las Bolas / Diquís Spheres",
+        "photo": "https://commons.wikimedia.org/wiki/File:Stone_Spheres_Costa_Rica.jpg",
+        "landmark": "Las Bolas / Diquís Spheres",
+        "link": "https://en.wikipedia.org/wiki/Stone_spheres_of_Costa_Rica",
+        "description": "Significance: Hundreds of nearly perfect stone spheres found in the Diquís Delta. Date: c. 800–1500 A.D..",
+        "latitude": 9.153,
+        "longitude": -83.751
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3,
+          18.5
+        ]
+      },
+      "properties": {
+        "Name": "Olmec Heads",
+        "photo": "https://commons.wikimedia.org/wiki/File:Olmec_Head,_Xalapa_Museum.jpg",
+        "landmark": "Olmec Heads",
+        "link": "https://en.wikipedia.org/wiki/Colossal_Head",
+        "description": "Significance: Giant carved stone heads depicting rulers. Date: Olmec civilization.",
+        "latitude": 18.5,
+        "longitude": -96.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.3301,
+          6.8386
+        ]
+      },
+      "properties": {
+        "Name": "Nan Madol",
+        "photo": "https://commons.wikimedia.org/wiki/File:Nan_Madol.jpg",
+        "landmark": "Nan Madol",
+        "link": "https://en.wikipedia.org/wiki/Nan_Madol",
+        "description": "Significance: A \"floating city\" of 92 artificial islets built of basalt columns. Date: Constructed c. 700–1600 C.E..",
+        "latitude": 6.8386,
+        "longitude": 158.3301
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.285,
+          -27.121
+        ]
+      },
+      "properties": {
+        "Name": "Rano Raraku & Moai Sites",
+        "photo": "https://commons.wikimedia.org/wiki/File:Rano_Raraku_Moai.jpg",
+        "landmark": "Rano Raraku & Moai Sites",
+        "link": "https://en.wikipedia.org/wiki/Rano_Raraku",
+        "description": "Significance: The quarry for 95% of the island's monolithic Moai statues. Date: Moai carved approx. 1400–1650 A.D..",
+        "latitude": -27.121,
+        "longitude": -109.285
+      }
+    }
+  ]
+}
